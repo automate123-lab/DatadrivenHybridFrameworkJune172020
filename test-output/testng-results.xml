@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LinkedinSuite" duration-ms="31085" started-at="2020-06-17T08:24:48 CDT" finished-at="2020-06-17T08:25:19 CDT">
+    <groups>
+    </groups>
+    <test name="LinkedinTest" duration-ms="31085" started-at="2020-06-17T08:24:48 CDT" finished-at="2020-06-17T08:25:19 CDT">
+      <class name="com.qa.project.testcases.SearchDDTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="setUp" is-config="true" duration-ms="8509" started-at="2020-06-17T08:24:40 CDT" finished-at="2020-06-17T08:24:48 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="beforeClass" is-config="true" duration-ms="17343" started-at="2020-06-17T08:24:48 CDT" finished-at="2020-06-17T08:25:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="searchPeopleTest" duration-ms="2893" started-at="2020-06-17T08:25:07 CDT" data-provider="testData" finished-at="2020-06-17T08:25:09 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aswini]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="searchPeopleTest" duration-ms="2973" started-at="2020-06-17T08:25:09 CDT" data-provider="testData" finished-at="2020-06-17T08:25:12 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Malleswari]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="searchPeopleTest" duration-ms="2902" started-at="2020-06-17T08:25:12 CDT" data-provider="testData" finished-at="2020-06-17T08:25:15 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Usha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="searchPeopleTest(java.lang.String)[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="searchPeopleTest" duration-ms="2917" started-at="2020-06-17T08:25:15 CDT" data-provider="testData" finished-at="2020-06-17T08:25:18 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Saritha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchPeopleTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="afterClass" is-config="true" duration-ms="1122" started-at="2020-06-17T08:25:18 CDT" finished-at="2020-06-17T08:25:19 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.project.testcases.SearchDDTest@c540f5a]" name="tearDown" is-config="true" duration-ms="266" started-at="2020-06-17T08:25:20 CDT" finished-at="2020-06-17T08:25:20 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.project.testcases.SearchDDTest -->
+    </test> <!-- LinkedinTest -->
+  </suite> <!-- LinkedinSuite -->
+</testng-results>
